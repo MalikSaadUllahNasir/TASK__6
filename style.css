@@ -1,0 +1,17 @@
+body{
+    background-color:#1d2630;
+    color:#fff;
+}
+
+#bookTable{
+    color: #fff;
+}
+
+.modal{
+    color: #fff;
+}
+
+::selection{
+    background-color: grey;
+    color: white;
+}
